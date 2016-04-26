@@ -1,10 +1,9 @@
 {
   "name": "fakeimg-atom-snippet",
   "main": "./lib/fakeimg-atom-snippet",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "fakeImg.pl placeholder snippet for atom",
-  "keywords": [
-  ],
+  "keywords": [],
   "activationCommands": {
     "atom-workspace": "fakeimg-atom-snippet:toggle"
   },
@@ -13,6 +12,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
