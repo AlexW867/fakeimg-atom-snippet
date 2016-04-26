@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle fakeimg-atom-snippet",
+        "command": "fakeimg-atom-snippet:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "fakeimg-atom-snippet",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "fakeimg-atom-snippet:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

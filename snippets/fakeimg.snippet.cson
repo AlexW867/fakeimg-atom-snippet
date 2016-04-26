@@ -1,0 +1,6 @@
+# fakeimg snippet
+
+'.text.html':
+  'FakeImg':
+    'prefix': 'fakeimg'
+    'body': '<img src="http://fakeimg.pl/${1:350}x${2:200}/${3:00CED1}/${4:FFF}/?text=${5:img+placeholder}">'
